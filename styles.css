@@ -1,0 +1,13 @@
+#image{
+    max-width:72%;
+    display:block;
+    text-align: center;
+  }
+body {
+    background-color: burlywood;
+    text-align:justify;
+    max-width: 70%;
+}
+#title {
+    color: rgb(241, 245, 25);
+}
