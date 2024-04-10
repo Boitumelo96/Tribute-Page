@@ -1,1 +1,1 @@
-Learning html and css through FreeCodeCamp, eeb design program 
+Learning html and css through FreeCodeCamp, web design program 
